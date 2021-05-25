@@ -50,6 +50,7 @@ trdPair1 = 'BNB'
 trdPair2 = 'BUSD'
 winRate = 1.017
 client = Client(api_key, api_secret)
+coitime = 0
 
 # Console header
 print('___DATE______TIME_____BALANCE___RSI____PRICE____STRATEGY___TARGET-PRICE__')
